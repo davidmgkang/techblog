@@ -9,6 +9,7 @@
 | 데일리호텔 | https://dailyhotel.io/ |
 | 레진 | https://tech.lezhin.com/ |
 | 렌딧 | https://lenditkr.github.io |
+| 리디북스 | https://www.ridicorp.com/blog/ |
 | 마켓컬리 | https://helloworld.kurly.com |
 | 뱅크샐러드 | https://blog.banksalad.com/ |
 | 쏘카  | https://tech.socarcorp.kr/ |
